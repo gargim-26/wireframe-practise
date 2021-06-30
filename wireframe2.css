@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#first-section {
+  position: relative;
+  top: 10px;
+  left: 20px;
+  width: 300px;
+  height: 500px;
+  border: 1px solid black;
+}
+.menu {
+  position: absolute;
+  left: 10px;
+  background-color: rgb(107, 214, 233);
+  width: 200px;
+  height: 30px;
+  border: 1px solid black;
+  margin: 10px;
+}
+.menu h2 {
+  padding: 0 0 4px 5px;
+}
+.content {
+  position: absolute;
+  left: 5px;
+  top: 40px;
+  background-color: rgb(241, 241, 169);
+  width: 280px;
+  height: 445px;
+  margin: 5px 5px;
+  border: 1px solid black;
+}
+.content h2 {
+  padding: 0 0 4px 5px;
+}
+#second-section {
+  position: relative;
+  left: 320px;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  margin-left: 10px;
+}
+.menu-submenu {
+  position: absolute;
+  background-color: rgb(107, 214, 233);
+  width: 200px;
+  height: 430px;
+  border: 1px solid black;
+  margin: 5px;
+  float: left;
+}
+.menu-submenu h2 {
+  padding: 0 0 4px 5px;
+}
+.contents {
+  position: absolute;
+  left: 210px;
+  background-color: rgb(241, 241, 169);
+  width: 270px;
+  height: 300px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.contents h2 {
+  padding: 0 0 4px 5px;
+}
+.sidebar {
+  position: absolute;
+  left: 210px;
+  top: 305px;
+  background-color: pink;
+  height: 126px;
+  margin: 5px;
+  width: 270px;
+  border: 1px solid black;
+}
+.middle-footer {
+  position: absolute;
+  top: 440px;
+  background-color: rgb(226, 114, 198);
+  width: 480px;
+  height: 40px;
+  margin: 5px;
+  border: 1px solid black;
+}
+#third-section {
+  position: relative;
+  left: 870px;
+  border: 1px solid black;
+  width: 500px;
+  height: 500px;
+}
+.menus {
+  position: absolute;
+  left: 5px;
+  background-color: rgb(107, 214, 233);
+  border: 1px solid black;
+  width: 490px;
+  height: 35px;
+}
+.submenu {
+  position: absolute;
+  top: 50px;
+  background-color: rgb(107, 214, 233);
+  border: 1px solid black;
+  width: 130px;
+  height: 300px;
+}
+.all-contents {
+  position: absolute;
+  left: 140px;
+  top: 50px;
+  background-color: rgb(241, 241, 169);
+  border: 1px solid black;
+  width: 130px;
+  height: 300px;
+}
+.slidebar {
+  position: absolute;
+  left: 280px;
+  top: 50px;
+  background-color: rgb(226, 114, 198);
+  border: 1px solid black;
+  width: 130px;
+  height: 300px;
+}
+.last-footer {
+  position: absolute;
+  left: 10px;
+  top: 350px;
+  background-color: rgb(226, 114, 198);
+  border: 1px solid black;
+  width: 490px;
+  height: 40px;
+}

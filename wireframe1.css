@@ -1,0 +1,61 @@
+
+body {
+    background-color: grey;
+}
+.navbar {
+    background-color: orange;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+}
+nav p{
+    background-color: rgb(196, 70, 196);
+    position: relative;
+    top:10px;
+    margin: 0 5px;
+    text-align: center;
+    padding: 5px 0;
+}
+.section {
+    background-color: rgb(64, 64, 238);
+    width: 600px;
+    height: 370px;
+    margin:0 auto;
+}
+.division {
+    background-color: green;
+    width: 500px;
+    height: 330px;
+    margin: 0 auto;
+    position: relative;
+    top: 15px;
+}
+#div-tag {
+    background-color: palevioletred;
+    text-align: center;
+    padding: 5px;
+    height: 300px;
+    width: 260px;
+    float:left;
+    margin: 10px;
+}
+aside {
+    background-color:pink;
+    text-align: center;
+    height: 310px;
+    float: right;
+    width: 190px;
+    margin: 10px;
+
+}
+
+footer p{
+    background-color:yellowgreen;
+    text-align: center;
+    width: 580px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.clear {
+    clear: both;
+}

@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(240, 201, 30);
+}
+.logo,
+.search-box,
+.nav-bar,
+.trail,
+.navigation,
+.content,
+.images,
+.footer {
+  background-color: #fff;
+  text-align: center;
+  font-size: 15px;
+  box-shadow: 3px 3px rgb(141, 141, 141);
+}
+.header {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 200px;
+  height: 50px;
+
+  margin: 20px 5px 5px 100px;
+  text-align: center;
+  line-height: 50px;
+}
+.search-box {
+  width: 150px;
+  height: 40px;
+  line-height: 30px;
+  position: absolute;
+  left: 1000px;
+  top: 10px;
+}
+.nav-bar {
+  width: 1130px;
+  position: relative;
+  left: 90px;
+  right: 50px;
+  margin-bottom: 5px;
+}
+.trail {
+  width: 1130px;
+  position: relative;
+  left: 90px;
+  right: 50px;
+  margin-bottom: 5px;
+}
+section {
+  position: relative;
+  left: 70px;
+}
+.navigation {
+  position: absolute;
+  left: 10px;
+  width: 320px;
+  height: 500px;
+  margin: 12px;
+  margin-right: 20px;
+}
+.content {
+  position: absolute;
+  left: 340px;
+  width: 500px;
+  height: 500px;
+  margin: 12px;
+  margin-right: 20px;
+}
+.images {
+  position: absolute;
+  left: 850px;
+  width: 295px;
+  height: 500px;
+  margin: 12px;
+}
+.footer {
+  position: relative;
+  top: 520px;
+  width: 1122px;
+  left: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
