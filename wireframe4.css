@@ -1,0 +1,183 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/*--------------First section-------------*/
+.section_one {
+  position: relative;
+  top: 50px;
+  left: 30px;
+  text-align: center;
+}
+
+.logo_first {
+  position: absolute;
+  background-color: rgb(140, 202, 243);
+  margin: 10px;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+}
+.primary_navigationone {
+  position: absolute;
+  left: 110px;
+  margin: 10px;
+  width: 500px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.profile_one {
+  position: absolute;
+  top: 50px;
+  margin: 10px;
+  width: 610px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.alert_one {
+  position: absolute;
+  top: 100px;
+  margin: 10px;
+  width: 610px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(40, 138, 204);
+}
+.small {
+  position: absolute;
+  top: 200px;
+  margin: 10px;
+  width: 160px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(140, 202, 243);
+}
+.blank_one {
+  position: absolute;
+  top: 200px;
+  left: 170px;
+  margin: 10px;
+  width: 170px;
+  height: 90px;
+  background-color: rgb(140, 202, 243);
+}
+.blank_div {
+  position: absolute;
+  top: 200px;
+  left: 350px;
+  margin: 10px;
+  width: 260px;
+  height: 90px;
+  background-color: rgb(140, 202, 243);
+}
+
+/*-------------- Second Section-------------*/
+.section_two {
+  position: relative;
+  top: 50px;
+  left: 40px;
+  text-align: center;
+}
+.logo_sec {
+  position: absolute;
+  left: 630px;
+  background-color: rgb(140, 202, 243);
+  margin: 10px;
+  width: 90px;
+  height: 40px;
+  line-height: 40px;
+}
+.profile_two {
+  position: absolute;
+  left: 730px;
+  margin: 10px;
+  width: 300px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.primary_navigationtwo {
+  position: absolute;
+  top: 50px;
+  left: 630px;
+  margin: 10px;
+  width: 400px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.alert_two {
+  position: absolute;
+  top: 110px;
+  left: 640px;
+  width: 400px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(40, 138, 204);
+}
+.blank_two {
+  position: absolute;
+  top: 210px;
+  left: 640px;
+  width: 400px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(140, 202, 243);
+}
+/*----------Third section----------*/
+.section_three {
+  position: relative;
+  top: 50px;
+  left: 460px;
+  text-align: center;
+}
+
+.logo_third {
+  position: absolute;
+  left: 630px;
+  background-color: rgb(140, 202, 243);
+  margin: 10px;
+  width: 80px;
+  height: 40px;
+  line-height: 40px;
+}
+.profile_three {
+  position: absolute;
+  left: 730px;
+  margin: 10px;
+  width: 190px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.primary_navigationthree {
+  position: absolute;
+  top: 50px;
+  left: 630px;
+  margin: 10px;
+  width: 290px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(140, 202, 243);
+}
+.alert_three {
+  position: absolute;
+  top: 110px;
+  left: 640px;
+  width: 290px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(40, 138, 204);
+}
+.small_format {
+  position: absolute;
+  top: 210px;
+  left: 640px;
+  width: 290px;
+  height: 90px;
+  line-height: 90px;
+  background-color: rgb(140, 202, 243);
+}

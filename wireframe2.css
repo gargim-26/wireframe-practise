@@ -2,6 +2,10 @@
   margin: 0px;
   padding: 0px;
 }
+.column {
+  display: flex;
+}
+
 #first-section {
   position: relative;
   top: 10px;
@@ -50,7 +54,6 @@
   height: 430px;
   border: 1px solid black;
   margin: 5px;
-  float: left;
 }
 .menu-submenu h2 {
   padding: 0 0 4px 5px;
